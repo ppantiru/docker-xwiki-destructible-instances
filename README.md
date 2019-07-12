@@ -20,21 +20,17 @@ Usage:
 run/start/stop
 
 The run command will alwais create a new container, so whenever you need a new fresh instance use:
-
 - docker run -dit -p8080:8080 [name of your image]
 
 Stop the container with:
-
 - docker stop [container name]
 
 this will stop the container but the work you did inside it is kept and you can restart and continue from where you left off.
 
 Check the existing containers:
-
 - docker ps -a
 
 Start a previous container
-
 - docker start [container name]
 
 
