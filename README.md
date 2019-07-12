@@ -27,7 +27,7 @@ Stop the container with:
 
 this will stop the container but the work you did inside it is kept and you can restart and continue from where you left off.
 
-Check the existing containers:
+Check the list of existing containers:
 - docker ps -a
 
 Start a previous container
