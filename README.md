@@ -32,5 +32,3 @@ Check the list of existing containers:
 
 Start a previous container
 - docker start [container name]
-
-test
